@@ -1,4 +1,4 @@
-<img alt="Typing" height="350" width="1080" src="https://media.giphy.com/media/L0Iqj4cdu8L0BMSJeD/giphy.gif" />
+<img alt="Master" height="350" width="1080" src="https://pixeljoint.com/files/icons/full/astebros_camp_loc.gif">
 
 <h1 align="center">Hi 👋, I'm Mohit Kumar Dubey</h1>
 
