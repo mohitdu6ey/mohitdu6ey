@@ -1,4 +1,7 @@
-# Hi, I'm Mohit! 👋
+<img alt="Typing" height="350" width="1080" src="https://media.giphy.com/media/L0Iqj4cdu8L0BMSJeD/giphy.gif" />
+
+<h1 align="center">Hi 👋, I'm Mohit Kumar Dubey</h1>
+
 
 I am passionate about AI, Python, and open-source development.  
 Currently building cool AI projects and learning more about large language models.
