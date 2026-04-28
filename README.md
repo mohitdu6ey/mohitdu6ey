@@ -57,8 +57,9 @@ Currently building cool AI projects and learning more about large language model
 
 | Project | Description |
 | ------- | ----------- |
-| [Movie Recommend System]([https://github.com/mohitdu6ey/Movie-Recommendation-System]) | |
+| [Movie Recommend System](https://github.com/mohitdu6ey/Movie-Recommendation-System) | Python-based NLP movie recommender with similarity based suggestions and movie details.
+ |
 
 ---
 
-*Thanks for visiting my profile! 🙏*
+*Thanks for visiting my profile! *
