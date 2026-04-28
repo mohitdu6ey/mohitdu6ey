@@ -8,9 +8,7 @@ Currently building cool AI projects and learning more about large language model
 
 ---
 
-## 🔭 Current Project
-[Email Subject Generator](https://github.com/mohitdu6ey/email-subject-generator)  
-Python script to generate short, clear, and professional email subject lines using AI.
+
 
 ---
 
@@ -59,7 +57,7 @@ Python script to generate short, clear, and professional email subject lines usi
 
 | Project | Description |
 | ------- | ----------- |
-| [Email Subject Generator](https://github.com/mohitdu6ey/email-subject-generator) | AI-based email subject line generator in Python. |
+| [Movie Recommend System]([https://github.com/mohitdu6ey/Movie-Recommendation-System]) | |
 
 ---
 
